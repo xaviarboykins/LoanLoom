@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{2C63C3C3-BEAE-4ADB-99A8-AC1855030E4D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{1933B8F8-F543-449D-AEB6-81E96D4A5418}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanLoomDesktop", "LoanLoomDesktop\LoanLoomDesktop.csproj", "{C6BC9690-A675-4930-8F80-64AD3827CA3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6BC9690-A675-4930-8F80-64AD3827CA3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6BC9690-A675-4930-8F80-64AD3827CA3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6BC9690-A675-4930-8F80-64AD3827CA3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6BC9690-A675-4930-8F80-64AD3827CA3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C6BC9690-A675-4930-8F80-64AD3827CA3D} = {2C63C3C3-BEAE-4ADB-99A8-AC1855030E4D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BDD404B-5B0C-41A1-B7C0-42C9ADEFAE6D}
+	EndGlobalSection
+EndGlobal

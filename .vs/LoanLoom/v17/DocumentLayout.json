@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\80PLEXX\\8ZeroSystems\\Repos\\LoanLoom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6BC9690-A675-4930-8F80-64AD3827CA3D}|LoanLoomDesktop\\LoanLoomDesktop.csproj|d:\\80plexx\\8zerosystems\\repos\\loanloom\\loanloomdesktop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6BC9690-A675-4930-8F80-64AD3827CA3D}|LoanLoomDesktop\\LoanLoomDesktop.csproj|solutionrelative:loanloomdesktop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6BC9690-A675-4930-8F80-64AD3827CA3D}|LoanLoomDesktop\\LoanLoomDesktop.csproj|d:\\80plexx\\8zerosystems\\repos\\loanloom\\loanloomdesktop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C6BC9690-A675-4930-8F80-64AD3827CA3D}|LoanLoomDesktop\\LoanLoomDesktop.csproj|solutionrelative:loanloomdesktop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6BC9690-A675-4930-8F80-64AD3827CA3D}|LoanLoomDesktop\\LoanLoomDesktop.csproj|d:\\80plexx\\8zerosystems\\repos\\loanloom\\loanloomdesktop\\loanloomdesktop.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C6BC9690-A675-4930-8F80-64AD3827CA3D}|LoanLoomDesktop\\LoanLoomDesktop.csproj|solutionrelative:loanloomdesktop\\loanloomdesktop.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6BC9690-A675-4930-8F80-64AD3827CA3D}|LoanLoomDesktop\\LoanLoomDesktop.csproj|d:\\80plexx\\8zerosystems\\repos\\loanloom\\loanloomdesktop\\loanloomdesktop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6BC9690-A675-4930-8F80-64AD3827CA3D}|LoanLoomDesktop\\LoanLoomDesktop.csproj|solutionrelative:loanloomdesktop\\loanloomdesktop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\xavia\\AppData\\Local\\Temp\\.vsdbgsrc\\07562dd9ba86a0a5fead5117dd68e3c724f52eea01f79d4441c442c042cad972\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\80PLEXX\\8ZeroSystems\\Repos\\LoanLoom\\LoanLoomDesktop\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LoanLoomDesktop\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\80PLEXX\\8ZeroSystems\\Repos\\LoanLoom\\LoanLoomDesktop\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LoanLoomDesktop\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAIwI0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T05:16:38.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoanLoomDesktop.csproj",
+              "DocumentMoniker": "D:\\80PLEXX\\8ZeroSystems\\Repos\\LoanLoom\\LoanLoomDesktop\\LoanLoomDesktop.csproj",
+              "RelativeDocumentMoniker": "LoanLoomDesktop\\LoanLoomDesktop.csproj",
+              "ToolTip": "D:\\80PLEXX\\8ZeroSystems\\Repos\\LoanLoom\\LoanLoomDesktop\\LoanLoomDesktop.csproj",
+              "RelativeToolTip": "LoanLoomDesktop\\LoanLoomDesktop.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-11T04:37:12.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoanLoomDesktop",
+              "DocumentMoniker": "D:\\80PLEXX\\8ZeroSystems\\Repos\\LoanLoom\\LoanLoomDesktop\\LoanLoomDesktop.csproj",
+              "RelativeDocumentMoniker": "LoanLoomDesktop\\LoanLoomDesktop.csproj",
+              "ToolTip": "D:\\80PLEXX\\8ZeroSystems\\Repos\\LoanLoom\\LoanLoomDesktop\\LoanLoomDesktop.csproj",
+              "RelativeToolTip": "LoanLoomDesktop\\LoanLoomDesktop.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-11T04:39:17.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\xavia\\AppData\\Local\\Temp\\.vsdbgsrc\\07562dd9ba86a0a5fead5117dd68e3c724f52eea01f79d4441c442c042cad972\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\xavia\\AppData\\Local\\Temp\\.vsdbgsrc\\07562dd9ba86a0a5fead5117dd68e3c724f52eea01f79d4441c442c042cad972\\XamlReader.cs [Read Only]",
+              "ViewState": "AQIAAGkBAAAAAAAAAAAtwIgBAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:07:12.815Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\80PLEXX\\8ZeroSystems\\Repos\\LoanLoom\\LoanLoomDesktop\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LoanLoomDesktop\\MainWindow.xaml",
+              "ToolTip": "D:\\80PLEXX\\8ZeroSystems\\Repos\\LoanLoom\\LoanLoomDesktop\\MainWindow.xaml",
+              "RelativeToolTip": "LoanLoomDesktop\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-11T02:12:32.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
